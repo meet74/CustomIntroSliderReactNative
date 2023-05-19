@@ -2,4 +2,5 @@
 
 ## Custom Intro Slider in React native from Scratch
 
-![Image description](assets/images/Screenshot.png)
+[![Project Demo](assets/images/Screenshot.png)](https://youtu.be/PRUNRZ4zPVE)
+
